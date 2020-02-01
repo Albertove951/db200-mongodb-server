@@ -66,7 +66,6 @@ MongoClient.connect(url, function(err, db) {
 
 
                 //express example
-                
                 const app = require('express')();
                 const { MongoClient } = require('mongodb');
                 
